@@ -20,3 +20,8 @@ py -m pip install matplotlib
 py -m pip install scipy
 ```
 > https://scipy.org/install/
+* Pygame
+```
+py -m pip install pygame
+```
+>https://www.pygame.org/wiki/GettingStarted
