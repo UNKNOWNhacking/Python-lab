@@ -12,6 +12,11 @@ pip install numpy
 
 * Matplotlib
 ```
-pip install matplotlib
+python -m pip install matplotlib
 ```
 > https://matplotlib.org/stable/users/installing/index.html
+* Sci-py
+```
+python -m pip install scipy
+```
+> https://scipy.org/install/
